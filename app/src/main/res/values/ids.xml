@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textColegio" type="id" />
+    <item name="editCarrera" type="id" />
+    <item name="textCarrera" type="id" />
+    <item name="editColegio" type="id" />
+    <item name="editFecha" type="id" />
+    <item name="textFecha" type="id" />
+    <item name="editApellidos" type="id" />
+    <item name="textApellidos" type="id" />
+    <item name="editNombres" type="id" />
+    <item name="textNombres" type="id" />
+    <item name="editDNI" type="id" />
+    <item name="textDNI" type="id" />
+    <item name="btnBuscar" type="id" />
+    <item name="editBuscar" type="id" />
+    <item name="textRegistro" type="id" />
+    <item name="textAPaterno" type="id" />
+    <item name="editAPaterno" type="id" />
+    <item name="textAMaterno" type="id" />
+    <item name="editAMaterno" type="id" />
+    <item name="btnRegistrar" type="id" />
+</resources>
